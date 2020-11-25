@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RFCI_FE_ALOYSIUS_MIREL"
