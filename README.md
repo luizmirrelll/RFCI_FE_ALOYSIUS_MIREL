@@ -49,3 +49,20 @@ public class SortingChiva {
 }
 
 ## Tampilan SIMPEL APP JAVA
+
+## Tampilan Aplikasi
+
+<p align="center">
+  <img src="ss/1.jpg" width="350" title="hover text">
+  <img src="ss/2.jpg" width="350" alt="accessibility text">
+</p>
+
+## Tampilan SIMPEL APP FLUTTER
+
+## Tampilan Aplikasi
+
+<p align="center">
+  <img src="ss/3.jpg" width="350" title="hover text">
+  <img src="ss/4.jpg" width="350" alt="accessibility text">
+</p>
+
