@@ -18,7 +18,7 @@ Jumlah swap: 10
 
 jawaban
 <p align="center">
-  <img src="5.JPG" width="350" title="hover text">
+  <img src="5.JPG" width="1000" title="hover text">
 </p>
 
 import java.util.Arrays;
