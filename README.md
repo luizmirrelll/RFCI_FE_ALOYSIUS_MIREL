@@ -17,6 +17,10 @@ Contoh output. Jika program dijalankan, output harus sama persis seperti dibawah
 Jumlah swap: 10
 
 jawaban
+<p align="center">
+  <img src="5.JPG" width="350" title="hover text">
+</p>
+
 import java.util.Arrays;
 
 public class SortingChiva {
